@@ -1,0 +1,24 @@
+.icon {
+  font-size: 1.1rem;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a:hover {
+  color: #555;
+}
+
+strong {
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+
